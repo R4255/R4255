@@ -1,10 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rohit Gupta</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+Rohit Gupta 🚀
 
-<p align="left">
-</p>
+Welcome to my GitHub profile! I'm Rohit Gupta, a passionate software developer with expertise in building web applications and machine learning models. Below are some of my notable projects and achievements.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4255&show_icons=true&locale=en&layout=compact" alt="r4255" /></p>
+Projects 🛠️
+Image Classifier 🖼️
+Description: Developed an image classifier that predicts the type of image upon uploading.
+Tech Stack: Flask, Python, Scikit-learn, Git
+Links: Live Demo | GitHub
+Features:
+Utilized Flask for handling HTTP requests, processing images, and interfacing with the machine learning model.
+Implemented SGDClassifier ML Model with Hog Transform for preprocessing and GridSearchCV for hyperparameter tuning.
+User-friendly interface for easy interaction and interpretation of classification results.
+Note Making Website 📝
+Description: Built a note-making full-stack application using Django for the backend and React for the frontend.
+Tech Stack: Django, React, Git
+Links: GitHub
+Features:
+Implemented authentication using JWT tokens.
+Secure platform for organizing and accessing notes.
+Django CRM 📊
+Description: Developed a CRM (Customer Relationship Management) app using Django and MySQL.
+Tech Stack: Django, HTML, JavaScript, MySQL, Git
+Links: GitHub
+Features:
+Functionalities for registering, logging in, adding, viewing, updating, and deleting records.
+Scalable, customizable, and secure CRM solution tailored to business needs.
+Full Stack Web Application 💻
+Description: Designed and implemented a full-stack web application using Flask for the backend and React for the frontend.
+Tech Stack: Flask, React, Git
+Links: GitHub
+Features:
+Allows users to manage contacts with CRUD operations.
+Intuitive and user-friendly interface.
+Technical Skills 🧠
+Languages: C++ (Proficient), Python
+Technologies: Django, Flask, TensorFlow, PyTorch, Bootstrap, MySQL, OpenCV, Git, Numpy, Pandas, Matplotlib, MongoDB
+Concepts: Operating System, Virtual Memory, Cache Memory, Encryption, Decryption, Artificial Intelligence, Machine Learning, Neural Networks, Database Normalization, Cloud Computing
+Awards & Achievements 🏆
+Completed Neural Networks and Deep Learning by Andrew Ng. Certificate
+Earned 10+ badges in Google Cloud Skills Boost. Profile
+Solved 300+ DSA questions, 100+ on Leetcode. LeetCode Profile
+Completed OpenCV course from OpenCV university. Certificate
+Completed Linux and SQL Google Course. Certificate
+Completed Networks and Networks Security Google Course. Certificate
