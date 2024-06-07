@@ -58,12 +58,9 @@ I have extensive experience in developing web applications using **Django**, **F
 
 - Completed Neural Networks and Deep Learning by Andrew Ng. [Certificate](https://www.coursera.org/account/accomplishments/verify/VXXYNJYUCD4E)
 - Earned 10+ badges in Google Cloud Skills Boost. [Profile](https://www.cloudskillsboost.google/public_profiles/b386fcbe-f8fa-4fb0-971d-93f943f8dcbd)
-- Solved 300+ DSA questions, 100+ on Leetcode. [LeetCode Profile](https://leetcode.com/rohitgupta22022003/)
+- Solved 300+ DSA questions, 150+ on Leetcode. [LeetCode Profile](https://leetcode.com/rohitgupta22022003/)
 - Completed OpenCV course from OpenCV university. [Certificate](https://courses.opencv.org/certificates/4db3131160c74307be8731b61b22a988)
 - Completed Linux and SQL Google Course. [Certificate](https://www.coursera.org/account/accomplishments/certificate/UNV3NFQKL3G6)
 - Completed Networks and Networks Security Google Course. [Certificate](https://www.coursera.org/account/accomplishments/certificate/MYVVRY27FFSS)
 
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=R4255&color=blue)
