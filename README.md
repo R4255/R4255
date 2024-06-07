@@ -4,6 +4,11 @@
 
 Welcome to my GitHub profile! I'm Rohit Gupta, a passionate software developer with expertise in building web applications and machine learning models. Below are some of my notable projects and achievements.
 
+## Proficiency 🧩
+
+I have extensive experience in developing web applications using **Django**, **Flask**, and **Python**. My projects showcase my ability to create robust and scalable applications, and I continuously strive to enhance my skills in these technologies.
+
+
 ## Projects 🛠️
 
 ### Image Classifier 🖼️
@@ -57,3 +62,8 @@ Welcome to my GitHub profile! I'm Rohit Gupta, a passionate software developer w
 - Completed OpenCV course from OpenCV university. [Certificate](https://courses.opencv.org/certificates/4db3131160c74307be8731b61b22a988)
 - Completed Linux and SQL Google Course. [Certificate](https://www.coursera.org/account/accomplishments/certificate/UNV3NFQKL3G6)
 - Completed Networks and Networks Security Google Course. [Certificate](https://www.coursera.org/account/accomplishments/certificate/MYVVRY27FFSS)
+
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=R4255&color=blue)
