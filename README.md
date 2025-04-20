@@ -23,13 +23,6 @@ A news aggregation platform fetching the latest news across multiple categories.
 - Built with **Flask, SQLAlchemy, Bootstrap**.
 - **Live Demo:** [News Portal](https://allinonenewsportal-122a42e54aaf.herokuapp.com/)
 
----
-
-### [Hubspot Integration 🔗](https://github.com/R4255/Hubspot_integration)
-A Hubspot API integration project.
-
-- Automates CRM workflows and data synchronization.
-- Uses **Python, FastAPI, and Webhooks**.
 
 ---
 
