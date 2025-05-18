@@ -291,16 +291,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="25" height="25" /> Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="(https://www.linkedin.com/in/rohit-gupta-597755229/)">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rohitgupta22022003@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/R4255">
     <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://rohitgupta22022003.portfolio.com">
+  <a href="https://rohitguptasde1.netlify.app/">
     <img height="30" src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
