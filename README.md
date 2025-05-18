@@ -38,14 +38,7 @@
     <td>🌐 <b>Portfolio:</b></td>
     <td><a href="https://rohitguptasde1.netlify.app">Portfolio Website</a></td>
   </tr>
-  <tr>
-    <td>📧 <b>Email:</b></td>
-    <td><a href="mailto:rohitgupta22022003@gmail.com">rohitgupta22022003@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>📱 <b>Mobile:</b></td>
-    <td>+91-9306537372</td>
-  </tr>
+ 
 </table>
 
 ---
