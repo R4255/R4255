@@ -291,9 +291,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="25" height="25" /> Connect with Me
 
 <p>
-  <a href="(https://www.linkedin.com/in/rohit-gupta-597755229/)">
+<!--   <a href="(https://www.linkedin.com/in/rohit-gupta-597755229/)">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
   <a href="https://github.com/R4255">
     <img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
