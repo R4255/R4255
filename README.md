@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>🌐 <b>Portfolio:</b></td>
-    <td><a href="https://rohitgupta22022003.portfolio.com">Portfolio Website</a></td>
+    <td><a href="https://rohitguptasde1.netlify.app">Portfolio Website</a></td>
   </tr>
   <tr>
     <td>📧 <b>Email:</b></td>
