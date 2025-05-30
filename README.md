@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/R4255/R4255/main/assets/banner.gif" alt="Rohit's GitHub Banner" width="100%" />
 
   <!-- Animated typing effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=IT+Student+%40+UIET+Chandigarh;SDE+Intern+%40+Tata+1mg;Software+Engineer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=SDE+Intern+%40+Tata+1mg;Software+Engineer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 
