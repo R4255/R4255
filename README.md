@@ -7,15 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=IT+Student+%40+UIET+Chandigarh;SDE+Intern+%40+Tata+1mg;Software+Engineer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
-<!-- VISITOR BADGE & TROPHIES with shadow box styling -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=R4255&color=blue&style=for-the-badge)
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=R4255&theme=nord&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
 
----
 
 <div align="center">
   
