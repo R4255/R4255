@@ -228,59 +228,6 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
-
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=R4255&show_icons=true&theme=github_dark&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=R4255&show_icons=true&count_private=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=R4255&show_icons=true&theme=github_dark&count_private=true&hide_border=true" width="400px" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=R4255&layout=compact&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=R4255&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4255&layout=compact&theme=github_dark&hide_border=true" width="400px" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=R4255&theme=github-dark-blue&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=R4255&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=R4255&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<div align="center">
-  
-  [![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R4255&theme=github-dark&hide_border=true)](https://github.com/R4255)
-  
-</div>
-
----
-
-<div align="center">
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="25" height="25" /> Connect with Me
 
 <p>
